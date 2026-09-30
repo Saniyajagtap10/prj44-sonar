@@ -1,0 +1,7 @@
+[theme]
+primaryColor = "#1d7a9c"
+# No "base" is set: Streamlit follows the OS light/dark preference.
+# Users can also switch it from the app menu (top-right ⋮ -> Settings -> Theme).
+
+[server]
+maxUploadSize = 50

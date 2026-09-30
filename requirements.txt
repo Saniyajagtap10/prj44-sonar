@@ -1,0 +1,13 @@
+--index-url https://download.pytorch.org/whl/cpu
+--extra-index-url https://pypi.org/simple
+torch
+streamlit>=1.50
+numpy>=1.26
+pandas>=2.0
+scipy>=1.11
+scikit-learn>=1.4
+plotly>=5.20
+pillow>=10.0
+matplotlib>=3.8
+reportlab>=4.0
+joblib>=1.3
